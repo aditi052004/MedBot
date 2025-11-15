@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "348752419580",
+    "firebase_url": "https://medbot-app-41109-default-rtdb.firebaseio.com",
+    "project_id": "medbot-app-41109",
+    "storage_bucket": "medbot-app-41109.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348752419580:android:45328c831eaf79c66f1579",
+        "android_client_info": {
+          "package_name": "com.example.medbotapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuHPHt2xKg5_7xFMRmWejnZd5yGN3mvYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
